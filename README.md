@@ -56,15 +56,17 @@ Ensure you have the following installed:
 
 ### **Login Page**
 Secure login for existing users.
-![Login Page Screenshot](https://raw.githubusercontent.com/Prasath-36/JWT-Auth/main/screenshots/login.png)
+![Image](https://github.com/user-attachments/assets/416f5839-ce54-4996-bc2e-ec2854257491)
+![Image](https://github.com/user-attachments/assets/4d74cf4f-97ac-4d25-b7bd-6d26a555e67e)
 
 ### **Signup Page**
 Secure signup for new users.
-![Signup Page Screenshot](https://raw.githubusercontent.com/Prasath-36/JWT-Auth/main/screenshots/login.png)
+![Image](https://github.com/user-attachments/assets/3101fb43-9661-43e2-bf83-f0321e57fbec)
+![Image](https://github.com/user-attachments/assets/0aeef06a-dc76-4691-8ca3-2d41ddfaefad)
 
 ### **Home Page**
 Home page after authorizing the token
-![Home Page Screenshot](https://raw.githubusercontent.com/Prasath-36/JWT-Auth/main/screenshots/login.png)
+![Image](https://github.com/user-attachments/assets/1f49ef04-24f5-4a1d-ad0f-debd245068ea)
 ---
 
 
